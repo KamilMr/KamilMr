@@ -8,8 +8,7 @@
     "build": "parcel build src/*.html --public-url ."
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "type": "git"
   },
   "keywords": [],
   "author": "Kamil Mrowka<kamil.mrowka@gmail.com>",
