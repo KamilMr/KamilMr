@@ -2,7 +2,7 @@
 I am a fullstack developer with a growing love towards all things related to server-side. My journey in programming began with JavaScript and I dedicatie myself to hone my skills to become proficient in my work. 
 On a daily basis, I work in `Nodejs` and `React` dedicating around 80% of my efforts to back-end development using Nodejs. 
 
-## After work activities :) 
+## Activities after work  :) 
 
 | priority | Free time activities        |
 | -------- | --------------------------- |
