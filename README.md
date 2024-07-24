@@ -16,3 +16,12 @@ In addition, I serve as a Nodejs mentor for students in [GoIt](https://goit.glob
 
 ## Public learner
 I share my learning journey publicly on [www.kamilmrowka.com](https://kamilmrowka.com/). There I write about what I am currently studying or working on as well as ideas and thoughts that arise after conversations with my students.
+
+## Currently working on?
+I am currently working on small modules that track my daily tasks using the terminal. 
+(task-tracker)[https://github.com/KamilMr/task-tracker]
+
+## I am studying
+Currently I study Node.js
+
+last edited: 2024-07-24
