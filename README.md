@@ -19,7 +19,7 @@ I share my learning journey publicly on [www.kamilmrowka.com](https://kamilmrowk
 
 ## Currently working on?
 I am currently working on small modules that track my daily tasks using the terminal. 
-(task-tracker)[https://github.com/KamilMr/task-tracker]
+[task-tracker](https://github.com/KamilMr/task-tracker)
 
 ## I am studying
 Currently I study Node.js
