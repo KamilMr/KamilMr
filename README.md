@@ -28,4 +28,9 @@ last edited: 2024-07-24
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Task tracker for Node.js](https://kamilmrowka.com/posts/task-tracker)
+- [Teaching Email Automation Using Handlebars and Nodemailer](https://kamilmrowka.com/posts/class-sending-emails-nodemailer-mailgun)
+- [Enjoying reading documentation](https://kamilmrowka.com/posts/documentation)
+- [Resources about learning in public](https://kamilmrowka.com/posts/learn-in-public)
+- [Task tracker for Node.js](https://kamilmrowka.com/posts/task-tracker)
 <!-- BLOG-POST-LIST:END -->
