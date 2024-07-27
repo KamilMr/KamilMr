@@ -32,5 +32,5 @@ last edited: 2024-07-24
 - [Teaching Email Automation Using Handlebars and Nodemailer](https://kamilmrowka.com/posts/class-sending-emails-nodemailer-mailgun)
 - [Enjoying reading documentation](https://kamilmrowka.com/posts/documentation)
 - [Resources about learning in public](https://kamilmrowka.com/posts/learn-in-public)
-- [Task tracker for Node.js](https://kamilmrowka.com/posts/task-tracker)
+- [Focusing on Mastery: A New Approach to Learning](https://kamilmrowka.com/posts/focus-july-24)
 <!-- BLOG-POST-LIST:END -->
