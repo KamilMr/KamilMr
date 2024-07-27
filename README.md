@@ -25,3 +25,7 @@ I am currently working on small modules that track my daily tasks using the term
 Currently I study Node.js
 
 last edited: 2024-07-24
+
+## My recent posts:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
