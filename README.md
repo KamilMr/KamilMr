@@ -22,9 +22,9 @@ I am currently working on small modules that track my daily tasks using the term
 [task-tracker](https://github.com/KamilMr/task-tracker)
 
 ## I am studying
-Currently I study Node.js
+Currently I study Design Patterns in Node.js
 
-last edited: 2024-07-24
+last edited: 2024-07-28
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
