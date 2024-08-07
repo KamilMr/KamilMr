@@ -28,9 +28,9 @@ last edited: 2024-07-28
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Choosing command line interface](https://kamilmrowka.com/posts/task-tracker-commandline-interface)
 - [Adding knex.js to my project](https://kamilmrowka.com/posts/task-tracker-knexjs)
 - [A Journey in English](https://kamilmrowka.com/posts/rss-feed-github)
 - [Task tracker for Node.js](https://kamilmrowka.com/posts/task-tracker)
 - [Teaching Email Automation Using Handlebars and Nodemailer](https://kamilmrowka.com/posts/class-sending-emails-nodemailer-mailgun)
-- [Enjoying reading documentation](https://kamilmrowka.com/posts/documentation)
 <!-- BLOG-POST-LIST:END -->
