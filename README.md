@@ -12,7 +12,7 @@ On a daily basis, I work in `Nodejs` and `React` dedicating around 80% of my eff
 | 4.       | learning bash scripting     |
 
 ## Mentor
-In addition, I serve as a Nodejs mentor for students in [GoIt](https://goit.global/) . This is a role pushing me towards mastering my skills as a teacher but most importantly as a backend developer helping me to understand my craft better. 
+In addition, I served as a Nodejs mentor for students in [GoIt](https://goit.global/) . This is a role pushing me towards mastering my skills as a teacher but most importantly as a backend developer helping me to understand my craft better. 
 
 ## Public learner
 I share my learning journey publicly on [www.kamilmrowka.com](https://kamilmrowka.com/). There I write about what I am currently studying or working on as well as ideas and thoughts that arise after conversations with my students.
