@@ -31,9 +31,9 @@ last edited: 2024-07-28
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Where to get information about Nodejs](https://kamilmrowka.com/posts/nodejs-resources)
 - [Here’s to more learning, more challenges, and new beginnings](https://kamilmrowka.com/posts/end-and-new-beginning)
 - [Choosing command line interface](https://kamilmrowka.com/posts/task-tracker-commandline-interface)
 - [Adding knex.js to my project](https://kamilmrowka.com/posts/task-tracker-knexjs)
 - [A Journey in English](https://kamilmrowka.com/posts/rss-feed-github)
-- [Task tracker for Node.js](https://kamilmrowka.com/posts/task-tracker)
 <!-- BLOG-POST-LIST:END -->
