@@ -31,9 +31,9 @@ last edited: 2024-07-28
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [JsDoc types in Node.js without TypeScript](https://kamilmrowka.com/posts/jsdoc-types)
 - [Write to buffer with formidable](https://kamilmrowka.com/posts/formidable-write-to-buffer)
 - [Linux command journey 1](https://kamilmrowka.com/posts/linux-commands-1)
 - [Pondering on commitment](https://kamilmrowka.com/posts/stay-focus)
 - [Building a task tracker](https://kamilmrowka.com/posts/task-tracker-step)
-- [Basic notes about streams](https://kamilmrowka.com/posts/node-streams-1)
 <!-- BLOG-POST-LIST:END -->
