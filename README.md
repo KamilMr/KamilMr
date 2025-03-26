@@ -31,9 +31,9 @@ last edited: 2024-12-04
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Learning Docker](https://kamilmrowka.com/posts/Setting simple docker compose first file)
 - [Memory](https://kamilmrowka.com/posts/Resources of memory leaking)
 - [Labels in Obsidian Turning Black on Ubuntu 22](https://kamilmrowka.com/posts/labels-in-obsidian-turning-black-on-ubuntu)
 - [What I accomplished last week in Home Finance Tracker?](https://kamilmrowka.com/posts/hft-workout-2)
 - [What I accomplished last week in Home Finance Tracker?](https://kamilmrowka.com/posts/hft-workout)
-- [JsDoc types in Node.js without TypeScript](https://kamilmrowka.com/posts/jsdoc-types)
 <!-- BLOG-POST-LIST:END -->
