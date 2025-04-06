@@ -31,9 +31,9 @@ last edited: 2024-12-04
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Finished course docker for beginners](https://kamilmrowka.com/posts/docker-impression)
 - [To create docker image](https://kamilmrowka.com/posts/To create docker image)
 - [Selectors in React Redux](https://kamilmrowka.com/posts/Basic information about selectors)
 - [Learning Docker](https://kamilmrowka.com/posts/Setting simple docker compose first file)
 - [Memory](https://kamilmrowka.com/posts/Resources of memory leaking)
-- [Labels in Obsidian Turning Black on Ubuntu 22](https://kamilmrowka.com/posts/labels-in-obsidian-turning-black-on-ubuntu)
 <!-- BLOG-POST-LIST:END -->
