@@ -31,9 +31,9 @@ last edited: 2024-12-04
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Express 5 Error Handling Has Changed](https://kamilmrowka.com/posts/express-changes-how-errors-are-handled-in-version-5)
+- [Express 5 Error Handling Has Changed](https://kamilmrowka.com/posts/express-changes-how-errors-are-handled-in-version-5)
+- [Memory](https://kamilmrowka.com/posts/Resources of memory leaking)
 - [Finished course docker for beginners](https://kamilmrowka.com/posts/docker-impression)
 - [To create docker image](https://kamilmrowka.com/posts/To create docker image)
-- [Selectors in React Redux](https://kamilmrowka.com/posts/Basic information about selectors)
-- [Learning Docker](https://kamilmrowka.com/posts/Setting simple docker compose first file)
-- [Memory](https://kamilmrowka.com/posts/Resources of memory leaking)
 <!-- BLOG-POST-LIST:END -->
