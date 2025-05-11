@@ -31,9 +31,9 @@ last edited: 2024-12-04
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Mysql security open port and firewall](https://kamilmrowka.com/posts/secure-port-3306)
 - [Pondering on what means mastering the fundamentals of problem solving](https://kamilmrowka.com/posts/mastering-the-fundamentals-problem-solving)
 - [Dockerized atuin](https://kamilmrowka.com/posts/using-self-hosted-atuin)
 - [Cloudflare R2](https://kamilmrowka.com/posts/CloudFlare R2 unstructured data)
 - [Finished course docker for beginners](https://kamilmrowka.com/posts/docker-impression)
-- [Express 5 Error Handling Has Changed](https://kamilmrowka.com/posts/express-changes-how-errors-are-handled-in-version-5)
 <!-- BLOG-POST-LIST:END -->
