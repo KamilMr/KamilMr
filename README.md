@@ -31,9 +31,9 @@ last edited: 2024-12-04
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Recreated the MySQL Root User](https://kamilmrowka.com/posts/create-new-root-user)
 - [Kernel](https://kamilmrowka.com/posts/kernel)
 - [Automating Blog Post Publishing from Obsidian](https://kamilmrowka.com/posts/automating-blog-post-publishing-from-obsidian)
 - [A simple Node.js script to streamline Storybook publishing workflow](https://kamilmrowka.com/posts/sync-storybook-to-s3)
 - [Mysql security open port and firewall](https://kamilmrowka.com/posts/secure-port-3306)
-- [Pondering on what means mastering the fundamentals of problem solving](https://kamilmrowka.com/posts/mastering-the-fundamentals-problem-solving)
 <!-- BLOG-POST-LIST:END -->
