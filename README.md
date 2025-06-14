@@ -31,9 +31,9 @@ last edited: 2024-12-04
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Weekend Server Experiments with Node.js: Exploring `setTimeout`, HTTP/HTTPS, and Certificates](https://kamilmrowka.com/posts/lab-work-1)
 - [Recreated the MySQL Root User](https://kamilmrowka.com/posts/create-new-root-user)
 - [Kernel](https://kamilmrowka.com/posts/kernel)
 - [Automating Blog Post Publishing from Obsidian](https://kamilmrowka.com/posts/automating-blog-post-publishing-from-obsidian)
 - [A simple Node.js script to streamline Storybook publishing workflow](https://kamilmrowka.com/posts/sync-storybook-to-s3)
-- [Mysql security open port and firewall](https://kamilmrowka.com/posts/secure-port-3306)
 <!-- BLOG-POST-LIST:END -->
