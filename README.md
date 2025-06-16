@@ -8,8 +8,7 @@ On a daily basis, I work in `Nodejs` and `React` dedicating around 80% of my eff
 | -------- | --------------------------- |
 | 1.       | mastering nodejs            |
 | 2.       | working on my side projects |
-| 3.       | learning kubernetes         |
-| 4.       | learning bash scripting     |
+| 3.       | learning docker |
 
 ## Mentor
 In addition, I used to served as a Nodejs mentor for students in [GoIt](https://goit.global/) . This was a role that pushed me towards mastering my skills as a teacher, but most importantly as a backend developer, helping me to understand my craft better.
@@ -27,7 +26,7 @@ Would you like to work with me? Join me on discord :-)
 ## I am studying
 Currently I study Design Patterns in Node.js
 
-last edited: 2024-12-04
+last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
