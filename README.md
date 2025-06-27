@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Make use of read command](https://kamilmrowka.com/posts/make-use-of-read)
 - [I am learning new git commands](https://kamilmrowka.com/posts/i-learn-new-git-commands)
 - [Weekend Server Experiments with Node.js: Exploring `setTimeout`, HTTP/HTTPS, and Certificates](https://kamilmrowka.com/posts/lab-work-1)
 - [Recreated the MySQL Root User](https://kamilmrowka.com/posts/create-new-root-user)
 - [Kernel](https://kamilmrowka.com/posts/kernel)
-- [Automating Blog Post Publishing from Obsidian](https://kamilmrowka.com/posts/automating-blog-post-publishing-from-obsidian)
 <!-- BLOG-POST-LIST:END -->
