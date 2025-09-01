@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Find Command Quickstart Guide](https://kamilmrowka.com/posts/find-command-quickstart-guide)
 - [I am using react-map-gl](https://kamilmrowka.com/posts/i-am-using-react-map-gl)
 - [Git Branch File Copying - Problem and Solution](https://kamilmrowka.com/posts/git-branch-file-copying-learned)
 - [Building a Secure &quot;Remember Me&quot;](https://kamilmrowka.com/posts/remember-me)
 - [Submodule Update Cheatsheet](https://kamilmrowka.com/posts/update-repo-submodule)
-- [Make use of read command](https://kamilmrowka.com/posts/make-use-of-read)
 <!-- BLOG-POST-LIST:END -->
