@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Inline Caching in V8](https://kamilmrowka.com/posts/inline-caching-and-monomorphism)
 - [Reading on how engine sees my code](https://kamilmrowka.com/posts/understanding-v8-compilation-pipeline)
 - [Setting Up Firebase App Distribution with EAS Build](https://kamilmrowka.com/posts/firebase-app-distribution-eas-build)
 - [Find Command Quickstart Guide](https://kamilmrowka.com/posts/find-command-quickstart-guide)
 - [I am using react-map-gl](https://kamilmrowka.com/posts/i-am-using-react-map-gl)
-- [Git Branch File Copying - Problem and Solution](https://kamilmrowka.com/posts/git-branch-file-copying-learned)
 <!-- BLOG-POST-LIST:END -->
