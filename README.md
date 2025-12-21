@@ -24,7 +24,7 @@ Would you like to work with me? Join me on discord :-)
 [Click here](https://discord.gg/Rk3hME8rfq)
 
 ## I am studying
-Currently I study Design Patterns in Node.js
+Currently I study [Node.js](https://www.thenodebook.com/)
 
 last edited: 2025-06-16
 
