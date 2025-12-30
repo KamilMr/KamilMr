@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Understanding journalctl](https://kamilmrowka.com/posts/journalctl)
 - [Friendly commits](https://kamilmrowka.com/posts/friendly-commits)
 - [Adding Firebase Crashlytics to Expo React Native](https://kamilmrowka.com/posts/crashlytics)
 - [I am learning new git commands](https://kamilmrowka.com/posts/i-learn-new-git-commands)
 - [Inline Caching in V8](https://kamilmrowka.com/posts/inline-caching-and-monomorphism)
-- [Reading on how engine sees my code](https://kamilmrowka.com/posts/understanding-v8-compilation-pipeline)
 <!-- BLOG-POST-LIST:END -->
