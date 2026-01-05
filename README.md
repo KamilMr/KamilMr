@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Vim Replace Entire File Content with External File](https://kamilmrowka.com/posts/Vim Replace File Content Quick Command)
 - [Auto-publish Docker image on merge to main](https://kamilmrowka.com/posts/github-actions-docker-publish)
 - [Organizing Docker Apps for Easy Terminal Access](https://kamilmrowka.com/posts/organizing-docker-apps-for-terminal-access)
 - [lsof](https://kamilmrowka.com/posts/lsiof)
 - [Understanding journalctl](https://kamilmrowka.com/posts/journalctl)
-- [Friendly commits](https://kamilmrowka.com/posts/friendly-commits)
 <!-- BLOG-POST-LIST:END -->
