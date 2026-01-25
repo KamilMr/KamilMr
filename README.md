@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Less Cards, More Meaning](https://kamilmrowka.com/posts/anki-cards)
 - [Heart not beating yet](https://kamilmrowka.com/posts/nodejs-startuptime)
 - [My Second Time with Stripe](https://kamilmrowka.com/posts/stripe-integration)
 - [Vim Replace Entire File Content with External File](https://kamilmrowka.com/posts/Vim Replace File Content Quick Command)
 - [Auto-publish Docker image on merge to main](https://kamilmrowka.com/posts/github-actions-docker-publish)
-- [Organizing Docker Apps for Easy Terminal Access](https://kamilmrowka.com/posts/organizing-docker-apps-for-terminal-access)
 <!-- BLOG-POST-LIST:END -->
