@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Turning an Old Laptop into a Home Server](https://kamilmrowka.com/posts/home-lab-1)
 - [Working on homelab](https://kamilmrowka.com/posts/home-lab)
 - [Python Virtual Environments](https://kamilmrowka.com/posts/venv)
 - [Less Cards, More Meaning](https://kamilmrowka.com/posts/anki-cards)
 - [Heart not beating yet](https://kamilmrowka.com/posts/nodejs-startuptime)
-- [My Second Time with Stripe](https://kamilmrowka.com/posts/stripe-integration)
 <!-- BLOG-POST-LIST:END -->
