@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [How to Approach Debugging by Mark Erikson](https://kamilmrowka.com/posts/how-to-approach-performance-debugging)
 - [DB Pool Leak Fix Part 2: req.destroyed vs req.socket.destroyed](https://kamilmrowka.com/posts/db-pool-not-releasing-2)
-- [Turning an Old Laptop into a Home Server](https://kamilmrowka.com/posts/home-lab-1)
-- [Database Connections Were Leaking and I Didn&#39;t Know Why](https://kamilmrowka.com/posts/db-pool-not-releasing)
-- [Working on homelab](https://kamilmrowka.com/posts/home-lab)
-- [Python Virtual Environments](https://kamilmrowka.com/posts/venv)
+- [Vim Replace Entire File Content with External File](https://kamilmrowka.com/posts/Vim Replace File Content Quick Command)
+- [Auto-publish Docker image on merge to main](https://kamilmrowka.com/posts/github-actions-docker-publish)
+- [Organizing Docker Apps for Easy Terminal Access](https://kamilmrowka.com/posts/organizing-docker-apps-for-terminal-access)
 <!-- BLOG-POST-LIST:END -->
