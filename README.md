@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Short thoughts on slowing down](https://kamilmrowka.com/posts/slow-down-med)
 - [How to Approach Debugging by Mark Erikson](https://kamilmrowka.com/posts/how-to-approach-performance-debugging)
 - [DB Pool Leak Fix Part 2: req.destroyed vs req.socket.destroyed](https://kamilmrowka.com/posts/db-pool-not-releasing-2)
 - [Vim Replace Entire File Content with External File](https://kamilmrowka.com/posts/Vim Replace File Content Quick Command)
 - [Auto-publish Docker image on merge to main](https://kamilmrowka.com/posts/github-actions-docker-publish)
-- [Organizing Docker Apps for Easy Terminal Access](https://kamilmrowka.com/posts/organizing-docker-apps-for-terminal-access)
 <!-- BLOG-POST-LIST:END -->
