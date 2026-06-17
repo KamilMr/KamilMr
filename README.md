@@ -30,7 +30,7 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
-- [Narrowing agent instructions](https://kamilmrowka.com/posts/Untitled)
+- [Narrowing agent instructions](https://kamilmrowka.com/posts/agent-instruction-1)
 - [Thoughts on mastery after reading Peter Norvig&#39;s article](https://kamilmrowka.com/posts/thoughts-on-mastery)
 - [Short thoughts on slowing down](https://kamilmrowka.com/posts/slow-down-med)
 - [How to Approach Debugging by Mark Erikson](https://kamilmrowka.com/posts/how-to-approach-performance-debugging)
