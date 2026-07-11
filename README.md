@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Preparing landing page](https://kamilmrowka.com/posts/prostezapisy-production)
 - [Using skill to learn new language.](https://kamilmrowka.com/posts/using-skill-to-improve-bash)
 - [Narrowing agent instructions](https://kamilmrowka.com/posts/agent-instruction-1)
 - [Thoughts on mastery after reading Peter Norvig&#39;s article](https://kamilmrowka.com/posts/thoughts-on-mastery)
 - [Short thoughts on slowing down](https://kamilmrowka.com/posts/slow-down-med)
-- [How to Approach Debugging by Mark Erikson](https://kamilmrowka.com/posts/how-to-approach-performance-debugging)
 <!-- BLOG-POST-LIST:END -->
