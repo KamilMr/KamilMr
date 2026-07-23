@@ -30,9 +30,9 @@ last edited: 2025-06-16
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Where development is going?](https://dev.kamilmrowka.com/posts/where-dev-is-going)
 - [Testing npm Packages Locally with npm pack](https://dev.kamilmrowka.com/posts/how-to-test-package-loc)
 - [Learning and adding cd.yaml](https://dev.kamilmrowka.com/posts/pz-cd)
 - [Preparing landing page](https://dev.kamilmrowka.com/posts/prostezapisy-production)
 - [Using skill to learn new language.](https://dev.kamilmrowka.com/posts/using-skill-to-improve-bash)
-- [Narrowing agent instructions](https://dev.kamilmrowka.com/posts/agent-instruction-1)
 <!-- BLOG-POST-LIST:END -->
