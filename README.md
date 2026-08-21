@@ -14,7 +14,7 @@ On a daily basis, I work in `Nodejs` and `React` dedicating around 80% of my eff
 In addition, I used to served as a Nodejs mentor for students in [GoIt](https://goit.global/) . This was a role that pushed me towards mastering my skills as a teacher, but most importantly as a backend developer, helping me to understand my craft better.
 
 ## Public learner
-I share my learning journey publicly on [www.kamilmrowka.com](https://dev.kamilmrowka.com/). There I write about what I am currently studying or working on as well as ideas and thoughts that arise in me.
+I share my learning journey publicly on [www.dev.kamilmrowka.com](https://dev.kamilmrowka.com/). There I write about what I am currently studying or working on as well as ideas and thoughts that arise in me.
 
 ## Currently working on?
 I am currently working on small modules that track my daily tasks using the terminal.
