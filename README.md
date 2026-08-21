@@ -30,9 +30,9 @@ last edited: 2026-08-21
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [What I did on 21-08-2026](https://dev.kamilmrowka.com/posts/today-21-08-2026)
 - [Just summary of my day](https://dev.kamilmrowka.com/posts/today-1)
 - [Where development is going?](https://dev.kamilmrowka.com/posts/where-dev-is-going)
 - [Testing npm Packages Locally with npm pack](https://dev.kamilmrowka.com/posts/how-to-test-package-loc)
 - [Learning and adding cd.yaml](https://dev.kamilmrowka.com/posts/pz-cd)
-- [Preparing landing page](https://dev.kamilmrowka.com/posts/prostezapisy-production)
 <!-- BLOG-POST-LIST:END -->
