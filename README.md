@@ -6,7 +6,7 @@ On a daily basis, I work in `Nodejs` and `React` dedicating around 80% of my eff
 
 | priority | Free time activities        |
 | -------- | --------------------------- |
-| 1.       | mastering nodejs            |
+| 1.       | Learning Kubernetes (new chapter)         |
 | 2.       | working on my side projects |
 | 3.       | learning docker |
 
@@ -24,9 +24,9 @@ Would you like to work with me? Join me on discord :-)
 [Click here](https://discord.gg/Rk3hME8rfq)
 
 ## I am studying
-Currently I study [Node.js](https://www.thenodebook.com/)
+Currently I study [Kubernetes in kubecraft](https://www.skool.com/kubecraft)
 
-last edited: 2025-06-16
+last edited: 2026-08-21
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
