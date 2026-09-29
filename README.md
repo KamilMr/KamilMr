@@ -1,32 +1,56 @@
-## FullStack developer
-I am a fullstack developer with a growing love towards all things related to server-side. My journey in programming began with JavaScript and I dedicatie myself to hone my skills to become proficient in my work.
-On a daily basis, I work in `Nodejs` and `React` dedicating around 80% of my efforts to back-end development using Nodejs.
+# Hi, I'm Kamil Mrowka
 
-## Activities after work  :)
+I'm a **backend-focused software developer** working mainly with **Node.js and TypeScript**.
 
-| priority | Free time activities        |
-| -------- | --------------------------- |
-| 1.       | Learning Kubernetes (new chapter)         |
-| 2.       | working on my side projects |
-| 3.       | learning docker |
+I also work with React/Next.js, but most of my current interests are around backend systems, infrastructure, developer tooling, and AI-assisted software development.
 
-## Mentor
-In addition, I used to served as a Nodejs mentor for students in [GoIt](https://goit.global/) . This was a role that pushed me towards mastering my skills as a teacher, but most importantly as a backend developer, helping me to understand my craft better.
+## What I work with
 
-## Public learner
-I share my learning journey publicly on [www.dev.kamilmrowka.com](https://dev.kamilmrowka.com/). There I write about what I am currently studying or working on as well as ideas and thoughts that arise in me.
+- **Backend:** Node.js, TypeScript, Express, MySQL
+- **Frontend:** React, less Next.js
+- **Infrastructure:** Docker, Docker Compose, Kubernetes / K3s, CI/CD
+- **Tooling:** Git, Linux, macOS, Neovim, tmux
+- **Currently exploring:** coding agents, local LLMs, developer automation, and platform engineering
 
-## Currently working on?
-I am currently working on small modules that track my daily tasks using the terminal.
-[task-tracker](https://github.com/KamilMr/task-tracker)
+## Projects
 
-Would you like to work with me? Join me on discord :-)
-[Click here](https://discord.gg/Rk3hME8rfq)
+### [Tirith](https://github.com/KamilMr/tirith)
 
-## I am studying
-Currently I study [Kubernetes in kubecraft](https://www.skool.com/kubecraft)
+A terminal-based time tracker with Vim-style navigation.
 
-last edited: 2026-08-21
+It tracks clients, projects, working time, and earnings while living primarily in the terminal.
+
+### [Home Lab](https://github.com/KamilMr/home-lab)
+
+My self-hosting and infrastructure playground.
+
+I'm using it to learn and experiment with Kubernetes/K3s, storage, networking, deployment, monitoring, and running real services on my own hardware.
+
+### [agent-loop](https://github.com/KamilMr/agent-loop)
+
+A local task orchestration system for AI coding agents.
+
+It coordinates a planner, implementer, and reviewer around an explicit task state and enforces boundaries around how agents interact with the project.
+
+### [ProsteZapisy.pl](https://prostezapisy.pl)
+
+A booking and scheduling application that I build and operate.
+
+It is also my playground for working on a real production application end-to-end: backend, frontend, infrastructure, deployment, and product development.
+
+## Engineering journal
+
+I write about what I'm building and learning at:
+
+**[dev.kamilmrowka.com](https://dev.kamilmrowka.com/)**
+
+Most posts are practical notes from my work with backend development, infrastructure, developer tooling, homelab, and software engineering.
+
+## Mentoring
+
+I previously worked as a **Node.js mentor at GoIT**, helping students learn backend development.
+
+Teaching pushed me to understand the fundamentals more deeply and to explain technical concepts clearly rather than simply knowing how to use them.
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
