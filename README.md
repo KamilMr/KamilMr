@@ -54,9 +54,9 @@ Teaching pushed me to understand the fundamentals more deeply and to explain tec
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [I use Anki cards to learn when I don&#39;t have much time](https://dev.kamilmrowka.com/posts/today-04-10-2026)
 - [DevPod, ProsteZapisy, and Infrastructure Work](https://dev.kamilmrowka.com/posts/today-26-09-2026)
 - [Git, Audiobookshelf, and Home Lab Storage](https://dev.kamilmrowka.com/posts/today-22092026)
 - [DevPod, Multiple Git Accounts, and Atuin](https://dev.kamilmrowka.com/posts/today-16-09-2026)
 - [What I did on 21-08-2026](https://dev.kamilmrowka.com/posts/today-21-08-2026)
-- [Just summary of my day](https://dev.kamilmrowka.com/posts/today-1)
 <!-- BLOG-POST-LIST:END -->
