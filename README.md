@@ -54,9 +54,9 @@ Teaching pushed me to understand the fundamentals more deeply and to explain tec
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [What I learned today: How Base64 actually works](https://dev.kamilmrowka.com/posts/base64-how-it-works)
 - [What I did today: Amplitude, MQTT, Git and AI agents](https://dev.kamilmrowka.com/posts/today-28-10-2026)
 - [Looking at My Compass Again](https://dev.kamilmrowka.com/posts/looking-at-my-compass-again)
 - [What I did today: Friday busy morning](https://dev.kamilmrowka.com/posts/today-09102026)
 - [I use Anki cards to learn when I don&#39;t have much time](https://dev.kamilmrowka.com/posts/today-04-10-2026)
-- [DevPod, ProsteZapisy, and Infrastructure Work](https://dev.kamilmrowka.com/posts/today-26-09-2026)
 <!-- BLOG-POST-LIST:END -->
