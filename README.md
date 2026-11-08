@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Developer and Technical Lead** with a strong backend focus, working mainly with **Node.js and TypeScript**.
 
-I also work with React, but most of my current interests are around backend systems, infrastructure, developer tooling, and AI-assisted software development.
+I build backend systems and web applications with Node.js, TypeScript, and React. My current focus is cloud architecture, infrastructure, developer tooling, and AI-assisted software development.
 
 Portfolio: **[kamilmrowka.com](https://kamilmrowka.com/)**
 
