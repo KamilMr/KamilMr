@@ -2,7 +2,7 @@
 
 I'm a **Full-Stack Developer and Technical Lead** with a strong backend focus, working mainly with **Node.js and TypeScript**.
 
-I also work with React/Next.js, but most of my current interests are around backend systems, infrastructure, developer tooling, and AI-assisted software development.
+I also work with React, but most of my current interests are around backend systems, infrastructure, developer tooling, and AI-assisted software development.
 
 Portfolio: **[kamilmrowka.com](https://kamilmrowka.com/)**
 
@@ -22,7 +22,7 @@ I wrote about the kickoff in **[Time is ticking](https://dev.kamilmrowka.com/pos
 ## What I work with
 
 - **Backend:** Node.js, TypeScript, Express, MySQL
-- **Frontend:** React, Astro, and occasional Next.js
+- **Frontend:** React, Astro
 - **Infrastructure:** AWS, Docker, Docker Compose, Kubernetes / K3s, CI/CD
 - **Tooling:** Git, Linux, macOS, Neovim, tmux
 - **Currently exploring:** coding agents, local LLMs, developer automation, and platform engineering
