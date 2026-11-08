@@ -1,14 +1,29 @@
 # Hi, I'm Kamil Mrowka
 
-I'm a **backend-focused software developer** working mainly with **Node.js and TypeScript**.
+I'm a **Full-Stack Developer and Technical Lead** with a strong backend focus, working mainly with **Node.js and TypeScript**.
 
 I also work with React/Next.js, but most of my current interests are around backend systems, infrastructure, developer tooling, and AI-assisted software development.
+
+Portfolio: **[kamilmrowka.com](https://kamilmrowka.com/)**
+
+## Currently studying
+
+I'm currently taking an **AWS Solutions Architect course** to deepen my understanding of cloud architecture.
+
+I wrote about the kickoff in **[Time is ticking](https://dev.kamilmrowka.com/posts/time-is-ticking)**.
+
+*Learning status updated: 8 November 2026.*
+
+## Current work
+
+- **Technical Lead at Sets Apart Limited:** developing web applications, supporting technical decisions, reviewing code, and mentoring developers.
+- **Independent Web Developer at [Inurri](https://www.inurri.pl/):** designing, building, and launching websites and web applications for business clients.
 
 ## What I work with
 
 - **Backend:** Node.js, TypeScript, Express, MySQL
-- **Frontend:** React, less Next.js
-- **Infrastructure:** Docker, Docker Compose, Kubernetes / K3s, CI/CD
+- **Frontend:** React, Astro, and occasional Next.js
+- **Infrastructure:** AWS, Docker, Docker Compose, Kubernetes / K3s, CI/CD
 - **Tooling:** Git, Linux, macOS, Neovim, tmux
 - **Currently exploring:** coding agents, local LLMs, developer automation, and platform engineering
 
