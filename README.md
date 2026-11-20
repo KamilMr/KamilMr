@@ -69,9 +69,9 @@ Teaching pushed me to understand the fundamentals more deeply and to explain tec
 
 ## My recent posts:
 <!-- BLOG-POST-LIST:START -->
+- [Friday Evening Study Session](https://dev.kamilmrowka.com/posts/friday-evening-study-session)
 - [Going a Bit Deeper Into AWS](https://dev.kamilmrowka.com/posts/going-a-bit-deeper-into-aws)
 - [Home Lab Transcription Automation: First Draft](https://dev.kamilmrowka.com/posts/home-lab-transcription-automation)
 - [Time Is Ticking](https://dev.kamilmrowka.com/posts/time-is-ticking)
 - [What I Did Today: Learning, Work, and My Homelab](https://dev.kamilmrowka.com/posts/today-05-11-2026)
-- [What I learned today: How Base64 actually works](https://dev.kamilmrowka.com/posts/base64-how-it-works)
 <!-- BLOG-POST-LIST:END -->
